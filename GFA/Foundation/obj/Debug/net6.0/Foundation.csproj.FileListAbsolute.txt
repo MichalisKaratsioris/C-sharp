@@ -1,0 +1,15 @@
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\bin\Debug\net6.0\Foundation.exe
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\bin\Debug\net6.0\Foundation.deps.json
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\bin\Debug\net6.0\Foundation.runtimeconfig.json
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\bin\Debug\net6.0\Foundation.dll
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\bin\Debug\net6.0\Foundation.pdb
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\obj\Debug\net6.0\Foundation.csproj.AssemblyReference.cache
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\obj\Debug\net6.0\Foundation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\obj\Debug\net6.0\Foundation.AssemblyInfoInputs.cache
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\obj\Debug\net6.0\Foundation.AssemblyInfo.cs
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\obj\Debug\net6.0\Foundation.csproj.CoreCompileInputs.cache
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\obj\Debug\net6.0\Foundation.dll
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\obj\Debug\net6.0\refint\Foundation.dll
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\obj\Debug\net6.0\Foundation.pdb
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\obj\Debug\net6.0\Foundation.genruntimeconfig.cache
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\Foundation\obj\Debug\net6.0\ref\Foundation.dll
