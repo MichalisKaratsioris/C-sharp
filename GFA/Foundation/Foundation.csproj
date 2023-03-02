@@ -8,8 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Week2\DataStructures\" />
-    <Folder Include="Week2\FileIO\" />
     <Folder Include="Week2\Drawing\" />
     <Folder Include="Week2\RecursionAndFractals\" />
     <Folder Include="Week4\" />
