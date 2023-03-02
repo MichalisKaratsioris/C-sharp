@@ -9,9 +9,8 @@
 
   <ItemGroup>
     <Folder Include="Week2\Drawing\" />
-    <Folder Include="Week2\RecursionAndFractals\" />
+    <Folder Include="Week3\AbstractsInterfaces\" />
     <Folder Include="Week4\" />
-    <Folder Include="Week3\" />
   </ItemGroup>
 
 </Project>
