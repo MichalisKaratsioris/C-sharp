@@ -1,0 +1,15 @@
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\bin\Debug\net6.0\MostCommonCharacters.exe
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\bin\Debug\net6.0\MostCommonCharacters.deps.json
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\bin\Debug\net6.0\MostCommonCharacters.runtimeconfig.json
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\bin\Debug\net6.0\MostCommonCharacters.dll
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\bin\Debug\net6.0\MostCommonCharacters.pdb
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\obj\Debug\net6.0\MostCommonCharacters.csproj.AssemblyReference.cache
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\obj\Debug\net6.0\MostCommonCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\obj\Debug\net6.0\MostCommonCharacters.AssemblyInfoInputs.cache
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\obj\Debug\net6.0\MostCommonCharacters.AssemblyInfo.cs
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\obj\Debug\net6.0\MostCommonCharacters.csproj.CoreCompileInputs.cache
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\obj\Debug\net6.0\MostCommonCharacters.dll
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\obj\Debug\net6.0\refint\MostCommonCharacters.dll
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\obj\Debug\net6.0\MostCommonCharacters.pdb
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\obj\Debug\net6.0\MostCommonCharacters.genruntimeconfig.cache
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\MostCommonCharacters\obj\Debug\net6.0\ref\MostCommonCharacters.dll

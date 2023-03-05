@@ -1,0 +1,15 @@
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\bin\Debug\net6.0\MockUpExamMarch.exe
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\bin\Debug\net6.0\MockUpExamMarch.deps.json
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\bin\Debug\net6.0\MockUpExamMarch.runtimeconfig.json
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\bin\Debug\net6.0\MockUpExamMarch.dll
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\bin\Debug\net6.0\MockUpExamMarch.pdb
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\obj\Debug\net6.0\MockUpExamMarch.csproj.AssemblyReference.cache
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\obj\Debug\net6.0\MockUpExamMarch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\obj\Debug\net6.0\MockUpExamMarch.AssemblyInfoInputs.cache
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\obj\Debug\net6.0\MockUpExamMarch.AssemblyInfo.cs
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\obj\Debug\net6.0\MockUpExamMarch.csproj.CoreCompileInputs.cache
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\obj\Debug\net6.0\MockUpExamMarch.dll
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\obj\Debug\net6.0\refint\MockUpExamMarch.dll
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\obj\Debug\net6.0\MockUpExamMarch.pdb
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\obj\Debug\net6.0\MockUpExamMarch.genruntimeconfig.cache
+C:\Users\mkara\Desktop\GitHub\C-sharp\GFA\MockUpExamMarch\obj\Debug\net6.0\ref\MockUpExamMarch.dll

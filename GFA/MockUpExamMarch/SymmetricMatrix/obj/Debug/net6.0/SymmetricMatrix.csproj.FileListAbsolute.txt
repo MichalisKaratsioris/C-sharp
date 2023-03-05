@@ -1,0 +1,15 @@
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\bin\Debug\net6.0\SymmetricMatrix.exe
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\bin\Debug\net6.0\SymmetricMatrix.deps.json
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\bin\Debug\net6.0\SymmetricMatrix.runtimeconfig.json
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\bin\Debug\net6.0\SymmetricMatrix.dll
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\bin\Debug\net6.0\SymmetricMatrix.pdb
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\obj\Debug\net6.0\SymmetricMatrix.csproj.AssemblyReference.cache
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\obj\Debug\net6.0\SymmetricMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\obj\Debug\net6.0\SymmetricMatrix.AssemblyInfoInputs.cache
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\obj\Debug\net6.0\SymmetricMatrix.AssemblyInfo.cs
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\obj\Debug\net6.0\SymmetricMatrix.csproj.CoreCompileInputs.cache
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\obj\Debug\net6.0\SymmetricMatrix.dll
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\obj\Debug\net6.0\refint\SymmetricMatrix.dll
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\obj\Debug\net6.0\SymmetricMatrix.pdb
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\obj\Debug\net6.0\SymmetricMatrix.genruntimeconfig.cache
+C:\Users\mkara\Desktop\GitHub\huli-csharp-trial-exam\MockUpExam\SymmetricMatrix\obj\Debug\net6.0\ref\SymmetricMatrix.dll
